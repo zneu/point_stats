@@ -90,7 +90,7 @@ def display_coordinates(num_coord, coords, euc_dist):
     print("You entered {} coordinates".format(num_coord))
     for num, coord in enumerate(coords):
         print("Point {} : {}".format(num, coord))
-    print("The distance to travel between those points was: {}".format(euc_dist))
+    print("The distance to travel between those points is: {}".format(euc_dist))
 
 show_help()
 number = num_coord()
