@@ -6,3 +6,5 @@ Takes coordinates of multiple points from user and calculates the total Euclidea
 * The total distance (Total_d) is derived by summing up the lengths of the individual line segments (e.g., Total_d = dP1P2 + dP2P3).
 * The total distance is displayed to the user in a descriptive manner.
 * Code works for any number of points (e.g., 0, 1, 10, 100+).
+
+See working copy of this tool on [repl.it](https://repl.it/GJm0/5)
